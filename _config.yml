@@ -1,0 +1,9 @@
+title: Ommalux
+description: USB camera imaging with photo, video, timelapse and camera diagnostics.
+url: "https://bugcube.github.io"
+baseurl: "/Ommalux"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
