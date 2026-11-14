@@ -1,6 +1,6 @@
 # Ommalux
 
-Camera acquisition and imaging tools for Android.
+A camera acquisition and imaging app for Android.
 
 - [Privacy Policy](privacy/)
 - [Impressum / Legal Notice](impressum/)
